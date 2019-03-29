@@ -26,8 +26,6 @@ namespace TestAspCoreApp.Controllers
 		{
 			ViewData["Message"] = "Your contact page.";
 
-
-
 			return View();
 		}
 
